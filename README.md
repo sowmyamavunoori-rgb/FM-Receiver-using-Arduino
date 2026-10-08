@@ -84,7 +84,7 @@ The system can be further enhanced with:
 
 The complete project report is available in this repository:
 
-**FM-Receiver-Project-Report.pdf**
+[📄 View Project Report](FM-Receiver-Project-Report.pdf)
 
 ## 👩‍💻 Project Team
 
